@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+```js
+const Anton = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Java],
+  tools: [React, Node, Styled-Components], 
+}
+```
 <!--
 **Dijeymon/Dijeymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
